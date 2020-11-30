@@ -112,6 +112,12 @@
 		"input.background": "#000000",
 		"input.border": "#219fd544",
 
+		// Panel
+		"panel.background": "#000000",
+		"panel.border": "#219fd544",
+		"panelTitle.activeBorder": "#43f0e9",
+		"panelTitle.activeForeground": "#43f0e9",
+		"panelTitle.inactiveForeground": "#8f8f8f",
 
 	},
 	"tokenColors": [
