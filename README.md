@@ -16,7 +16,7 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 4.  Search for `The Night Ocean`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **The Night Ocean**
 
 # Feedback
 
