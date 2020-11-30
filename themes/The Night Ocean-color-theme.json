@@ -44,6 +44,24 @@
 		"statusBar.foreground": "#fff",
 		"statusBar.border": "#219fd544",
 		"statusBarItem.hoverBackground": "#041837",
+
+		// Tabs
+		"editorGroupHeader.tabsBackground": "#000000",
+		"editorGroupHeader.tabsBorder": "#219fd544",
+		
+
+		"breadcrumb.background": "#000000",
+		"breadcrumb.foreground": "#ffffff",
+
+		"tab.border": "#219fd544",
+		"tab.inactiveBackground": "#000000",
+		"tab.inactiveForeground": "#8f8f8f",
+		"tab.activeBorder": "#43f0e9",
+		"tab.activeForeground": "#43f0e9",
+
+		"foreground": "#43f0e9",
+		"contrastBorder": "#219fd544",
+		"focusBorder": "#219fd544",
 	},
 	"tokenColors": [
 		{
