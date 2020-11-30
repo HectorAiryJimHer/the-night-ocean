@@ -90,6 +90,16 @@
 		"notifications.background": "#000000",
 		"notificationToast.border": "#219fd544",
 
+		// Terminal
+		"terminal.background": "#000000",
+		"terminal.foreground": "#ffffff",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#219fd5",
+		"terminal.ansiGreen": "#0ad261",
+		"terminal.ansiRed": "#ff0000",
+		"terminal.ansiYellow": "#43f0e9",
+		"terminalCursor.foreground": "#ffffff",
+		
 	},
 	"tokenColors": [
 		{
