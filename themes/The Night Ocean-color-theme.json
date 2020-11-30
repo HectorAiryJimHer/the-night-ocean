@@ -10,6 +10,34 @@
 		"activityBarBadge.background": "#43f0e9",
 		"activityBarBadge.foreground": "#000000",
 
+		// Side Bar
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBar.background": "#000000",
+		"sideBar.border": "#219fd544",
+		"sideBar.foreground": "#ffffff",
+
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.border": "#219fd544",
+		"sideBarSectionHeader.foreground": "#ffffff",
+		
+		"list.activeSelectionBackground": "#041837",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionBackground": "#041837",
+		"list.inactiveSelectionForeground": "#219fd5",
+		"list.hoverBackground": "#041837",
+		"list.hoverForeground": "#219fd5",
+		
+		"gitDecoration.modifiedResourceForeground": "#43f0e9",
+		"gitDecoration.untrackedResourceForeground": "#0ad261",
+		
+
+		"button.background": "#0063a5a6",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#219fd5",
+
+		"extensionButton.prominentForeground": "#ffffff",
+		"extensionButton.prominentBackground": "#06a731",
+		"extensionButton.prominentHoverBackground": "#0ad261",
 	},
 	"tokenColors": [
 		{
