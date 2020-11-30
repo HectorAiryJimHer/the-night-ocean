@@ -80,6 +80,12 @@
 		"editorIndentGuide.activeBackground": "#fff",
     	"editorIndentGuide.background": "#219fd544",
 		
+		// Scrollbar
+		"scrollbar.shadow": "#000000",
+        "scrollbarSlider.activeBackground": "#219fd544",
+        "scrollbarSlider.background": "#219fd544",
+        "scrollbarSlider.hoverBackground": "#219fd544",
+
 	},
 	"tokenColors": [
 		{
