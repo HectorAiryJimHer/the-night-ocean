@@ -62,6 +62,24 @@
 		"foreground": "#43f0e9",
 		"contrastBorder": "#219fd544",
 		"focusBorder": "#219fd544",
+
+		// Editor
+		"editor.background": "#000000",
+		"editor.foreground": "#ffffff",
+		"editorLineNumber.foreground": "#219fd5",
+		"editor.lineHighlightBackground": "#041837",
+    	"editor.selectionBackground": "#041837",
+    	"editor.selectionHighlightBackground": "#041837",
+    	"editor.findMatchHighlightBackground": "#041837",
+		"editorGutter.background": "#000000",
+		"editorGutter.addedBackground": "#0ad261",
+		"editorGutter.modifiedBackground": "#43f0e9",
+		"editorGutter.deletedBackground": "#ff0000",
+    	"editorHoverWidget.background": "#000000",
+		"editorHoverWidget.border": "#219fd544",
+		"editorIndentGuide.activeBackground": "#fff",
+    	"editorIndentGuide.background": "#219fd544",
+		
 	},
 	"tokenColors": [
 		{
