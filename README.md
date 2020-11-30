@@ -1,13 +1,29 @@
-# README
-## This is the README for your extension "the-night-ocean"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# 🌌 The Night Ocean 🌌
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+✨ The night ocean is a dark theme for lovers of the sea and northern lights. ✨
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-**Enjoy!**
+# The Night Ocean
+
+![First Screen](images/1.png)
+
+# Installation
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `The Night Ocean`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+
+# Feedback
+
+This is my first foray into creating a theme, so if you see something wrong, please feel free to [open an issue](https://github.com/HectorAiryJimHer/the-night-ocean/issues) or better yet, a [pull request](https://github.com/HectorAiryJimHer/the-night-ocean/pulls).! I'm sure there are things I missed.
+
+Any relevant changes for each version are documented in the [changelod](CHANGELOG.md). Please update and check the changelog before filing any issues, as they may have already been taken care of.
+
+# Authors
+
+Authored by [HectorAiryJimHer](https://twitter.com/HectorAiryJimH)
