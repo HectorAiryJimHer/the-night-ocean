@@ -106,6 +106,13 @@
 		"dropdown.listBackground": "#000000",
 		"dropdown.border": "#219fd544",
 		"dropdown.foreground": "#ffffff",
+
+		// Input
+
+		"input.background": "#000000",
+		"input.border": "#219fd544",
+
+
 	},
 	"tokenColors": [
 		{
