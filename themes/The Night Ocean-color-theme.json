@@ -38,6 +38,12 @@
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#06a731",
 		"extensionButton.prominentHoverBackground": "#0ad261",
+
+		// Status bar
+		"statusBar.background": "#000",
+		"statusBar.foreground": "#fff",
+		"statusBar.border": "#219fd544",
+		"statusBarItem.hoverBackground": "#041837",
 	},
 	"tokenColors": [
 		{
