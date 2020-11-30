@@ -22,6 +22,7 @@
         "theme": "dark"
     },
     "icon": "icon.png",
+    "license": "SEE LICENSE IN LICENSE.md",
     "categories": [
         "Themes"
     ],
