@@ -2,10 +2,14 @@
 	"name": "The Night Ocean",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// Activity Bar
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#43f0e9",
+		"activityBar.border": "#219fd544",
+		"activityBar.inactiveForeground": "#0063a5a6",
+		"activityBarBadge.background": "#43f0e9",
+		"activityBarBadge.foreground": "#000000",
+
 	},
 	"tokenColors": [
 		{
