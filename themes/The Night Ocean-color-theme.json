@@ -119,6 +119,10 @@
 		"panelTitle.activeForeground": "#43f0e9",
 		"panelTitle.inactiveForeground": "#8f8f8f",
 
+		// Debug
+
+		"debugToolBar.background": "#000000",
+
 	},
 	"tokenColors": [
 		{
