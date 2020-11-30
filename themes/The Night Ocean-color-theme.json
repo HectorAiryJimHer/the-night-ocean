@@ -84,7 +84,11 @@
 		"scrollbar.shadow": "#000000",
         "scrollbarSlider.activeBackground": "#219fd544",
         "scrollbarSlider.background": "#219fd544",
-        "scrollbarSlider.hoverBackground": "#219fd544",
+		"scrollbarSlider.hoverBackground": "#219fd544",
+		
+		// Notifications
+		"notifications.background": "#000000",
+		"notificationToast.border": "#219fd544",
 
 	},
 	"tokenColors": [
