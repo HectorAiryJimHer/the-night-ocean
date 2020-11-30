@@ -1,14 +1,39 @@
 {
     "name": "the-night-ocean",
     "displayName": "The Night Ocean",
-    "description": "",
-    "version": "0.0.1",
+    "description": "The night ocean is a dark theme for lovers of the sea and northern lights.",
     "publisher": "HectorAiryJimHer",
-    "engines": {
-        "vscode": "^1.50.0"
+    "author": {
+        "name": "Héctor Airy Jiménez Hernández"
     },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HectorAiryJimHer/the-night-ocean"
+    },
+    "bugs": {
+        "url": "https://github.com/HectorAiryJimHer/the-night-ocean/issues"
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "icon.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark",
+        "Night",
+        "Night theme",
+        "Ocean",
+        "Night Ocean",
+        "The night ocean",
+        "Black theme"
     ],
     "contributes": {
         "themes": [
