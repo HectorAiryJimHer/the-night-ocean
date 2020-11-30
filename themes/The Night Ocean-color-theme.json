@@ -99,7 +99,13 @@
 		"terminal.ansiRed": "#ff0000",
 		"terminal.ansiYellow": "#43f0e9",
 		"terminalCursor.foreground": "#ffffff",
-		
+
+
+		// Dropdown
+		"dropdown.background": "#000000",
+		"dropdown.listBackground": "#000000",
+		"dropdown.border": "#219fd544",
+		"dropdown.foreground": "#ffffff",
 	},
 	"tokenColors": [
 		{
